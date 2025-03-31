@@ -1,2 +1,2 @@
 Welcome to my Next.js application!
-This is a simple home page that displays text from a file.
+This is a simple home page. :)

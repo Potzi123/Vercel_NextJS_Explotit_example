@@ -1,4 +1,4 @@
-// File: C:\Users\thoma\Documents\5AHELS\Vercel_NextJS_Explotit_example\app\page.tsx
+// File: C:\Users\thoma\Documents\5_Klasse\fachvortrag\Vercel_NextJS_Explotit_example\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
